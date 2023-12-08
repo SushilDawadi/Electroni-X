@@ -6,7 +6,7 @@ const redressed = Redressed({ subsets: ["latin"], weight: ["400"] });
 const Navbar = () => {
   return (
     // Spiced Apple #783937
-    <div className="sticky top-0 w-full bg-[#F1AC88] z-30 shadow-sm  ">
+    <div className="sticky top-0 w-full bg-[#f8d6c4] z-30 shadow-sm  ">
       <div className="py-4 border-b-[1px]">
         <Container>
           <div className="flex items-center justify-between gap-3 md:gap-0">
